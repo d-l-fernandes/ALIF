@@ -1,0 +1,18 @@
+Type: BACKGROUND
+Title: WtZ
+HistoFile: background_WtZ
+FillColor: 85
+DSID: 405
+      410-412
+      430
+SampleCode: 400
+MCName: Sherpa1
+        Sherpa2
+Group: OtherMC
+
+Type: SIGNAL
+Title: t#bar{t}#rightarrow sWbW
+HistoFile: signal_sW
+FillColor: 50
+DSID: 200
+SampleCode: 300

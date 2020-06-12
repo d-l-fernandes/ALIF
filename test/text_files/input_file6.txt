@@ -1,0 +1,12 @@
+Sample: all
+Region: all
+Folder: test
+
+Sample: background_WtZ
+Region: SR
+Cut: 2-4
+ScaleBinByBin: 2->1.4,4->"test"
+
+Sample: signal_sW
+Region: SR
+Scale: (* 0.6 "test")

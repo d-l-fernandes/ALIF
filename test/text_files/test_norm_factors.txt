@@ -1,0 +1,5 @@
+NormFactor: "#mu"
+  Title: #mu
+  Nominal: 1
+  Min: 0.0001
+  Max: 10

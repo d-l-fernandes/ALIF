@@ -1,0 +1,12 @@
+Sample: all
+Region: all
+Folder: test2
+
+Sample: background_WtZ, signal_sW
+Region: SR, bWbWCR
+Cut: 2-4
+ScaleBinByBin: 2->1.4,4->"test"
+
+Sample: signal_sW
+Region: SR
+ExcludeFromSystematics: True

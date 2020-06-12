@@ -1,0 +1,3 @@
+Sample: all
+Region: all
+Folder: test4

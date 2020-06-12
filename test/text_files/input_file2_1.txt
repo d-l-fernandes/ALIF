@@ -1,0 +1,13 @@
+Sample: all
+Region: all
+Folder: test
+
+Sample: signal_sW
+Region: SR
+Folder: test
+Scale: 1.9
+
+Sample: background_WtZ
+Region: bWbWCR
+Folder: test
+Scale: "test@#mu_ttbar"

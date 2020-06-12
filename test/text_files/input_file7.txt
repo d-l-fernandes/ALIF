@@ -1,0 +1,7 @@
+Sample: all
+Region: all
+Folder: test
+
+Sample: background_WtZ
+Region: SR
+ExcludeFromRegions: True

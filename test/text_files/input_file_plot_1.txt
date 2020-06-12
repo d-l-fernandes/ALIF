@@ -1,0 +1,8 @@
+Sample: all
+Region: all
+Folder: test
+
+Sample: signal_sW
+Region: SR
+Folder: test
+Test: True

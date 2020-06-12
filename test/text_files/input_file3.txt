@@ -1,0 +1,11 @@
+Sample: all
+Region: all
+Folder: test2
+
+Sample: background_WtZ
+Region: SR
+Cut: 2-4
+
+Sample: signal_sW
+Region: bWbWCR
+Cut: 3, 5-7

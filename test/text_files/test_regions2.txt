@@ -1,0 +1,9 @@
+Region: "test_region1"
+  Type: SIGNAL
+  HistoName: "test_histo_name1"
+  HistoPathSuff: "SR/"
+
+Region: "test_region2"
+  Type: BACKGROUND
+  HistoName: "test_histo_name2"
+  HistoPathSuff: "bWbWCR/"

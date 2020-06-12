@@ -1,0 +1,7 @@
+Sample: all
+Region: all
+Folder: test4
+
+Sample: signal_sW
+Region: SR
+Scale: 1.8

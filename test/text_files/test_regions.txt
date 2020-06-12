@@ -1,0 +1,4 @@
+Region: "test_region"
+  Type: SIGNAL
+  HistoName: "test_histo_name"
+  HistoPathSuff: "SR/"
